@@ -1,9 +1,5 @@
 <h1> Hi, I'm Brian </h1>
-- 👋 Hi, I’m @bli698 <br/>
-- 👀 I’m interested in ... <br/>
-- 🌱 I’m currently learning ... <br/>
-- 💞️ I’m looking to collaborate on ... <br/>
-- 📫 How to reach me ... <br/>
+Motivated and fast learner with passion towards speeding up repetitive daily tasks and positive user feedback.
 
 <!---
 bli698/bli698 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
